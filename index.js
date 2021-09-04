@@ -92,3 +92,5 @@ for(var i=0;i<highScores.length;i++)
 {
     console.log(highScores[i].user+" "+highScores[i].score);
 }
+
+
