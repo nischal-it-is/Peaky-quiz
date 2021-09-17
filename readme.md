@@ -1,2 +1,3 @@
 A Peaky blinders quiz created on repl. A pure cli app
-Developed for neogCamp level0 markTwo
+It has questions and answers related to a popular tv series named "PEaky Blinders"
+TechStack: JS
